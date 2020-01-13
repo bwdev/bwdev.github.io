@@ -1,0 +1,39 @@
+- layout: top-middle
+  name: Incident Tracking & Management of Change systems
+  link: 
+  github:
+  quote: >
+    CEO Award
+  description: | # this will include new lines to allow paragraphs
+    I was recognized for my efforts on two systems that provided better efficiencies in two different processes within the organization. I was/am responsible for the architecture, development, deployment, and maintenance of these applications and for seeing that these projects were completed successfully.
+
+    The Incident Tracking system provides users a way to record incidents, set up an investigation committee and review board, assign corrective actions to remediate preventable issues, and provide a way to distribute lessons learned.
+    
+    The Management of Change application provides engineering, operations, control room, and management personnel an automated workflow for communicating changes in the operation of the company’s assets. Through a series of requests, comments, and approvals, personnel is able to effectively communicate change.
+
+- layout: top-middle
+  name: SemGas Operations system
+  link: 
+  github:
+  quote: >
+    CEO Award
+  description: | # this will include new lines to allow paragraphs
+    I was recognized for my efforts on a system that provides a number of tools for SemGroup’s Natural Gas subsidiary business (SemGas). This application allows field personnel to record, track and monitor data that is important to the safe operation of the asset. This application utilizes a mobile device management tool to provide a secure tunnel for web traffic to users’ mobile devices. Field personnel are able to connect securely to the corporate network and use the application on their mobile devices. I was/am responsible for the architecture, development, deployment, and maintenance of this application and for seeing that this project was completed successfully.
+
+- layout: top-middle
+  name: Contract Request Management system
+  link: 
+  github:
+  quote: >
+    Thanks to You Award
+  description: | # this will include new lines to allow paragraphs
+    I was recognized for my efforts on a system that provides support for the process of personnel requesting the review of contracts by the company’s legal team. This system provides a workflow for a user to request the review of a contract, have that contract approved by a number of stakeholders, and then store attachments of the draft and final versions of the contracts for historical record. I was/am responsible for the architecture, development, deployment, and maintenance of this application and for seeing that this project was completed successfully.
+
+- layout: top-middle
+  name: New Hire Checklist system
+  link: 
+  github:
+  quote: >
+    Thanks to You Award
+  description: | # this will include new lines to allow paragraphs
+    I was recognized for my efforts on a system that provides a concise and repeatable procedure for onboarding newly hired truck drivers for SemGroup’s Marketing & Logistics subsidiary business. This system contains a series of notifications and approvals for individuals in Human Resources, IT, DOT, and Management to address. This system has made the process of getting new drivers onboarded with all of the correct documentation and requirements a much less painful process for all personnel involved. I was/am responsible for the architecture, development, deployment, and maintenance of this application and for seeing that this project was completed successfully.

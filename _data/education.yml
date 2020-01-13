@@ -1,0 +1,19 @@
+- layout: left
+  name: John Brown University
+  dates: August 2009 to May 2011
+  qualification: B.S. in Organizational Management with an emphasis in Business Information Systems
+  quote: >
+    Established in 1919 by evangelist Dr. John E. Brown Sr., JBU was created to combine Christian liberal arts education with an emphasis on specialized vocational training.
+  description: | # this will include new lines to allow paragraphs
+    I finished my bachelor's degree by attending classes in the evening while working full time. I consider the education I received from John Brown University an integral part of my development both personally and professionally. I am grateful for the experience.
+
+    I was included on the President's Honor Roll.
+
+- layout: left
+  name: Northwest Arkansas Community College
+  dates: August 2001 to December 2003
+  qualification: Associate of Arts
+  quote: >
+    NorthWest Arkansas Community College (NWACC) provides quality and affordable higher education to empower lives and strengthen communities within Northwest Arkansas and the surrounding areas
+  description: | # this will include new lines to allow paragraphs
+    I attended NWACC after high school and earned my associate's degree while working.

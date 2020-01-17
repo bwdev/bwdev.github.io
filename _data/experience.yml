@@ -8,8 +8,6 @@
   description: | # this will include new lines to allow paragraphs
     In my role at SemGroup, I work as part of a small autonomous team that is responsible for providing quality solutions to primarily internal business customers. I work directly with subject matter experts from within the business throughout the software development lifecycle. We are a Microsoft shop utilizing the .NET stack, and I am very comfortable with the technologies and tools relevant to this stack, including: C#, ASP.NET, SQL Server, Entity Framework, Visual Studio, Visual Studio Code, IIS, PowerShell, Active Directory, and others. Many applications include a Web API backend with a single page application framework like Angular for the front end. Depending on requirements, many times a service bus or windows service will be utilized for bulk/extended processing. On a typical project I will gather and refine requirements, and then develop, test, deploy, document, and support the project according to the needs of the customer.
     
-    I was brought in to SemGroup in an entry level position and have been promoted three times in five years to my current role as an Application Developer/Analyst Specialist. 
-
     SemGroup was acquired by Energy Transfer Partners in December of 2019.
 
 - layout: left

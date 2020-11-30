@@ -1,20 +1,4 @@
 - layout: left
-  company: US Payments 
-  link: corp.uspayments.com
-  job_title: SENIOR SOFTWARE DEVELOPER
-  dates: OCT 2020 – PRESENT
-  description: | # this will include new lines to allow paragraphs
-    Work as part of the software team to develop and maintain new and existing software systems.
-
-- layout: left
-  company: Williams 
-  link: www.williams.com/
-  job_title: IT ANALYST IV
-  dates: MAY 2020 – OCT 2020
-  description: | # this will include new lines to allow paragraphs
-    Worked as part of the Innovation and Emerging Technology team to develop and maintain software solutions utilizing Anguler and .NET Core technologies
-
-- layout: left
   id: 'semgroup'
   company: SemGroup Corp / Energy Transfer Partners
   link: www.semgroup.com

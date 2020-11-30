@@ -1,3 +1,12 @@
+
+- layout: left
+  company: Williams 
+  link: www.williams.com/
+  job_title: IT ANALYST IV
+  dates: MAY 2020 – OCT 2020
+  description: | # this will include new lines to allow paragraphs
+    Worked as part of the Innovation and Emerging Technology team to develop and maintain software solutions utilizing Anguler and .NET Core technologies
+
 - layout: left
   id: 'semgroup'
   company: SemGroup Corp / Energy Transfer Partners

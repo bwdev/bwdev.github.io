@@ -1,10 +1,3 @@
-- layout: left
-  company: US Payments 
-  link: corp.uspayments.com
-  job_title: SENIOR SOFTWARE DEVELOPER
-  dates: OCT 2020 – PRESENT
-  description: | # this will include new lines to allow paragraphs
-    Work as part of the software team to develop and maintain new and existing software systems.
 
 - layout: left
   company: Williams 
